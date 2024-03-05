@@ -31,7 +31,7 @@ This web application is a user-friendly and interactive tool designed to calcula
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/age-calculator.git
+   git clone https://github.com/sapnendra/agecalculator.git
    ```
 
 2. Open the `index.html` file in a web browser to launch the application.
