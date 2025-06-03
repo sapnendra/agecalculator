@@ -253,6 +253,9 @@ nav ul li a:hover::after {
 
 /* Tablets (601px to 900px) */
 @media (min-width: 601px) and (max-width: 900px) {
+  nav ul {
+    display: none;
+  }
   .calculator {
     margin-left: 5%;
     margin-top: 8%;
