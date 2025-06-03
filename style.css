@@ -213,6 +213,11 @@ nav ul li a:hover::after {
   nav ul {
     display: none;
   }
+
+  #date {
+    width: 100%;
+  }
+
   .calculator {
     margin-left: 0;
     margin-top: 20px;
@@ -239,12 +244,6 @@ nav ul li a:hover::after {
     padding: 10px 12px;
   }
 
-  .input-box button {
-    width: 100%;
-    font-size: 1.1rem;
-    padding: 12px 0;
-  }
-
   #result {
     font-size: 1.1rem;
     text-align: center;
@@ -256,6 +255,11 @@ nav ul li a:hover::after {
   nav ul {
     display: none;
   }
+
+  #date {
+    width: 100%;
+  }
+
   .calculator {
     margin-left: 5%;
     margin-top: 8%;
@@ -278,12 +282,6 @@ nav ul li a:hover::after {
     margin-bottom: 15px;
     font-size: 1.1rem;
     padding: 12px 16px;
-  }
-
-  .input-box button {
-    width: 100%;
-    font-size: 1.2rem;
-    padding: 14px 0;
   }
 
   #result {
